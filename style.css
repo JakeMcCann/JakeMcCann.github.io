@@ -1,0 +1,14 @@
+h1, h2 {
+  font-family: 'Karla', sans-serif;
+  font-weight: 700
+}
+
+p, a {
+  font-family: 'Karla', sans-serif;
+  font-weight: 400
+}
+
+.copy {
+  padding-top: 150px;
+  padding-left: 200px
+}
